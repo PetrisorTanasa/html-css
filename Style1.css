@@ -1,0 +1,72 @@
+.html_incercare{
+    scroll-behavior: smooth;
+}
+.info_init{
+    background-color: rgba(255, 0, 0, 0.63);
+    font-size: 24px;
+    text-decoration:rgb(0, 255, 76);
+    margin:2cm;
+}
+#prez1{
+    background-color: aqua;
+}
+
+#prez2{
+    background-color: blueviolet;
+}
+
+#prez3{
+    background-color: chartreuse;
+}
+
+#prez4{
+    background-color:rgb(255, 136, 0,0.4);
+}
+
+.info_aot{
+    background-color: aqua;
+    font-size: x-large;
+    margin:2cm;
+}
+.imagine_stanga{
+    float:left;
+}
+
+.imagine_dreapta{
+    float:right;
+}
+.info_demon{
+    background-color: blueviolet;
+    font-size: x-large;
+    margin:2cm;
+}
+.info_one{
+    background-color: chartreuse;
+    font-size: x-large;
+    margin:2cm;
+}
+.tabelDetabel tr:hover{
+    background-color: aqua;
+}
+.tabelDetabel{
+    margin: 1cm;
+    padding: 1cm;
+    font-size: x-large;
+}
+.tabelDetabel:nth-child(odd){
+    background-color: rgb(255, 102, 0);
+}
+.tabelDetabel:nth-child(2n){
+    background-color:red;
+}
+#primu_rand{
+    text-align: center;
+}
+.smek{
+    border: cyan;
+    border-style: dotted;
+    margin:5cm;
+}
+.abcde{
+    font-size: large;
+}
